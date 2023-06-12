@@ -1,0 +1,7 @@
+{
+  "name": "WryderX",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
